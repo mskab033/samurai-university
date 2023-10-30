@@ -43,7 +43,7 @@
                             <div class="calendar_news_border_1">
                               <div class="calendar_month"><?php echo post_custom('month'); ?></div>
                               <div class="calendar_day">
-                                <span><?php echo post_custom('day'); ?></span><span>日</span>
+                                <span><?php echo post_custom('day'); ?></span>
                               </div>
                             </div>
                           </div>
