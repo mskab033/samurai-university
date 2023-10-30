@@ -49,12 +49,6 @@
                   </a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="<?php echo home_url(); ?>/category/graduates">
-                    GRADUATES
-                    <p>卒業生の声</p>
-                  </a>
-                </li>
-                <li class="nav-item">
                   <a class="nav-link" href="<?php echo home_url(); ?>/course">
                     COURSES
                     <p>コース</p>
