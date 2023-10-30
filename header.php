@@ -2,14 +2,15 @@
 <!DOCTYPE html>
 
 <head>
-  <title>samurai university</title>
+  <title>SAMURAI UNIVERSITY</title>
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="description" content="samurai university" />
+  <meta name="description" content="SAMURAI UNIVERSITY公式ホームページ。愛知県名古屋市にキャンパスを持つ4年制大学です。" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/styles/bootstrap4/bootstrap.min.css" />
   <link href="<?php echo get_template_directory_uri(); ?>/plugins/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
   <link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/styles/main_styles.css" />
+  <link rel="icon" href="<?php echo get_template_directory_uri(); ?>/images/favicon.ico" />
   <?php wp_head(); ?>
 </head>
 
