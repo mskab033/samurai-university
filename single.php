@@ -37,7 +37,7 @@
                             <div class="calendar_news_border_1">
                               <div class="calendar_month"><?php echo get_post_time('F'); ?></div>
                               <div class="calendar_day">
-                                <span><?php echo get_the_date('d'); ?></span><span>日</span>
+                                <span><?php echo get_the_date('d'); ?></span>
                               </div>
                             </div>
                           </div>

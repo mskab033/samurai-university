@@ -23,7 +23,7 @@
             <div class="logo_container">
               <a href="index.php">
                 <div class="logo_text">
-                  <a href="/">
+                  <a href="<?php echo home_url(); ?>">
                     <img src="<?php echo get_template_directory_uri(); ?>/images/logo_big.png" />
                     <span>Samurai University</span>
                   </a>
@@ -46,12 +46,6 @@
                   <a class="nav-link" href="<?php echo home_url(); ?>/category/event">
                     EVENT
                     <p>イベント</p>
-                  </a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="<?php echo home_url(); ?>/category/graduates">
-                    GRADUATES
-                    <p>卒業生の声</p>
                   </a>
                 </li>
                 <li class="nav-item">
